@@ -1,0 +1,13 @@
+# Target labels
+ bootloader
+# Source files and their labels
+E:/Biostim/KadamV4/Sample_devices_for_hospital/build/CMakeFiles/bootloader
+E:/Biostim/KadamV4/Sample_devices_for_hospital/build/CMakeFiles/bootloader.rule
+E:/Biostim/KadamV4/Sample_devices_for_hospital/build/CMakeFiles/bootloader-complete.rule
+E:/Biostim/KadamV4/Sample_devices_for_hospital/build/bootloader-prefix/src/bootloader-stamp/bootloader-build.rule
+E:/Biostim/KadamV4/Sample_devices_for_hospital/build/bootloader-prefix/src/bootloader-stamp/bootloader-configure.rule
+E:/Biostim/KadamV4/Sample_devices_for_hospital/build/bootloader-prefix/src/bootloader-stamp/bootloader-download.rule
+E:/Biostim/KadamV4/Sample_devices_for_hospital/build/bootloader-prefix/src/bootloader-stamp/bootloader-install.rule
+E:/Biostim/KadamV4/Sample_devices_for_hospital/build/bootloader-prefix/src/bootloader-stamp/bootloader-mkdir.rule
+E:/Biostim/KadamV4/Sample_devices_for_hospital/build/bootloader-prefix/src/bootloader-stamp/bootloader-patch.rule
+E:/Biostim/KadamV4/Sample_devices_for_hospital/build/bootloader-prefix/src/bootloader-stamp/bootloader-update.rule
